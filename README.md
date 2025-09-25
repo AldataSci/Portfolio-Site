@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Starter Kit
 
 This portfolio is built with **Next.js** and a library called [Nextra](https://nextra.vercel.app/). It allows you to write Markdown and focus on the _content_ of your portfolio. This starter includes:
@@ -32,3 +33,7 @@ yarn create next-app --example blog my-blog
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+=======
+# Portfolio-Site
+Place to put my portfolio site
+>>>>>>> 34798de5c32865d0c90749e1ff119328115f2bf6
